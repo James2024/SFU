@@ -5,7 +5,11 @@ state={
 	manpower = 2295085
 	
 	state_category = city
-
+	
+resources={
+         tungsten=76
+}
+	
 	history={
 		owner = SPR
 		victory_points = {
